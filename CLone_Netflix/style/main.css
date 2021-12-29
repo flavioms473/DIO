@@ -1,0 +1,259 @@
+:root{
+    --vermelho: #E50914;
+    --preta: #141414;
+    --redlogo:#e43e46;
+}
+ 
+@font-face{
+    font-family:"font-logo" ;
+    src: url("../fonts/28\ Days\ Later.ttf");
+    
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+        /* elemento base*/
+body{
+    background: var(--preta);
+    font-family: 'Arial', Times, serif;
+    color: white;
+
+}
+
+audio{
+    filter: sepia(20%) saturate(30%) grayscale(1) contrast(10%) invert(12%);
+    width: 200px;
+    height: 15px;
+    background: black;
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+header .logo{
+    margin-left: 5px;
+    color: var(--redlogo);
+    font-family:'Font-logo', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #aaa;
+    margin-right: 10px;
+}
+
+header nav a:hover{
+    color: #fff;
+}
+
+
+
+     /*filme principal*/
+
+     .descricao{
+         color: rgb(190, 188, 186);
+     }
+
+     .filme-principal{
+         font-size: 16px;
+         background:  url('/img/capa0.jpg');
+        
+         height: 400px;
+         background-size: cover;
+
+         display: flex;
+         flex-direction: column;
+         justify-content: center;
+         align-items: flex-start;
+     }
+
+     .filme01{
+        font-size: 16px;
+        background:  url('/img/capa01.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme02{
+        font-size: 16px;
+        background:  url('/img/capa02.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme03{
+        font-size: 16px;
+        background:  url('/img/capa03.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme04{
+        font-size: 16px;
+        background:  url('/img/capa04.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme05{
+        font-size: 16px;
+        background:  url('/img/capa05.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme06{
+        font-size: 16px;
+        background:  url('/img/capa06.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme07{
+        font-size: 16px;
+        background:  url('/img/capa07.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme08{
+        font-size: 16px;
+        background:  url('/img/capa08.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme09{
+        font-size: 16px;
+        background:  url('/img/capa09.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .filme10{
+        font-size: 16px;
+        background:  url('/img/capa10.jpg');
+       
+        height: 900px;
+        background-size: cover;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+     
+
+     .filme-principal .filme01 .filme02 .filme03 .filme04 .filme05 .filme06 .filme07 .filme08 .filme09 .filme10.descricao{
+         margin-top: 10px;
+         margin-bottom: 90px;
+     }
+
+     .titulo{
+         margin-top: 20px;
+         font-size: 40px;
+         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     }
+
+     .botao{
+         background-color:rgba(0, 0, 0, .50) ;
+         border: none;
+         color: white;
+         padding: 15px 30px;
+         margin-right: 15px;
+         font-size: 12px;
+
+         cursor: pointer;
+         transition: .3s ease all;
+     }
+
+     .botao:hover{
+         background-color: white;
+         color: black;
+     }
+
+     .botao i{
+         margin-right: 8px;
+     }
+
+     .container{
+         margin-left: 20px;
+     }
+
+     .filme-principal .container{
+         width: 70%;
+     }
+
+     .box-filme{
+         height: 100%;
+         width: 100%;
+         display: block;
+     }
+
+     .carrosel-filme{
+         margin-top: -25px;
+     }
+
