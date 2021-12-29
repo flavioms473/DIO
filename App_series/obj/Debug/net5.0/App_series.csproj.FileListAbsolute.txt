@@ -1,0 +1,16 @@
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\bin\Debug\net5.0\App_series.exe
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\bin\Debug\net5.0\App_series.deps.json
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\bin\Debug\net5.0\App_series.runtimeconfig.json
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\bin\Debug\net5.0\App_series.runtimeconfig.dev.json
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\bin\Debug\net5.0\App_series.dll
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\bin\Debug\net5.0\ref\App_series.dll
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\bin\Debug\net5.0\App_series.pdb
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\App_series.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\App_series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\App_series.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\App_series.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\App_series.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\App_series.dll
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\ref\App_series.dll
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\App_series.pdb
+C:\Users\flavi\OneDrive\Documentos\DIO_C#\App_series\obj\Debug\net5.0\App_series.genruntimeconfig.cache
